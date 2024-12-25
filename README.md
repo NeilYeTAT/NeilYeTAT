@@ -2,7 +2,7 @@
 
 **A soon-to-graduate university student who enjoys front-end technology and Haibara Ai.**
 
-### ┗|｀′|┛ Learning:
+### <p style="color: #48CFCB ">┗|｀′|┛ Learning:</p>
 
 <p>
   <img src="./img/Next.js.png" height="140px" />
