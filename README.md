@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Ye Yu! ~(\*￣ ▽ ￣\*)ブ
 
-<!--
-**NeilYeTAT/NeilYeTAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A soon-to-graduate university student who enjoys front-end technology and Haibara Ai.**
 
-Here are some ideas to get you started:
+### ┗|｀′|┛ Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="./img/Next.js.png" height="140px" />
+  <img src="./img/TypeScript.png" height="140px" />
+  <img src="./img/React.png" height="140" />
+  <img src="./img/Tailwindcss6.png" height="140px" />
+  <img src="./img/Vue.png" height="140px" />
+  <img src="./img/Golang.png" height="140px" />
+</p>
