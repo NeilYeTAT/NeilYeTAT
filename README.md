@@ -1,15 +1,16 @@
-# Hi there 👋, I'm Ye Yu ~
-> ~(\*￣ ▽ ￣\*)ブ 
+# Hi there 👋, I'm Ye Yu (叶鱼) ~
+
+> ~(\*￣ ▽ ￣\*)ブ
 
 **A soon-to-graduate university student who enjoys front-end technology and Haibara Ai（灰原哀／はいばら あい）(´▽`ʃ♡ƪ)".**
 
-### <p style="color: #48CFCB"> (❀╹◡╹) => Learning:</p>
+### <p> (❀╹◡╹) => Learning:</p>
 
 <p>
-  <img src="./img/Next.js.png" height="140px" />
-  <img src="./img/TypeScript.png" height="140px" />
-  <img src="./img/React.png" height="140" />
-  <img src="./img/Tailwindcss6.png" height="140px" />
-  <img src="./img/Vue.png" height="140px" />
-  <img src="./img/Golang.png" height="140px" />
+  <img src="./img/Next.js.webp" height="140px" />
+  <img src="./img/TypeScript.webp" height="140px" />
+  <img src="./img/React.webp" height="140" />
+  <img src="./img/Tailwindcss.webp" height="140px" />
+  <img src="./img/Vue.webp" height="140px" />
+  <img src="./img/Golang.webp" height="140px" />
 </p>
